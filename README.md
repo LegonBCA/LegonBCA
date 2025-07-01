@@ -42,3 +42,19 @@ Me apasiona entender cómo funcionan los sistemas, proteger la información y de
 
 </span>
 
+
+## ⚙️ Análisis de GitHub
+
+<p align="center">
+  <a href="https://github.com/LegonBCA">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LegonBCA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/LegonBCA">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LegonBCA&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LegonBCA&theme=dark&hide_border=true"/>
+</p>
+
