@@ -12,16 +12,12 @@ Me interesan mucho la **seguridad en sistemas**, las **bases de datos** y la **p
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
-- 🌱 Actualmente Aprendiendo <img height="20" src="https://motoko-school.medium.com/welcome-to-motoko-school-78f2446e860d"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+- 🌱 Actualmente Aprendiendo: <img height="20" src="https://motoko-school.medium.com/welcome-to-motoko-school-78f2446e860d"></code>
 
-- 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 
-- 📫 How to reach me: 
+- 💬 
+
+- 📫 Donde comunicarse conmigo:
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): sayer203 </a>
 
 <img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=LegonBCA&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
