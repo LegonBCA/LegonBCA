@@ -12,15 +12,26 @@ Me interesan mucho la **seguridad en sistemas**, las **bases de datos** y la **p
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
-- 🌱 Actualmente Aprendiendo: <img height="20" src="https://motoko-school.medium.com/welcome-to-motoko-school-78f2446e860d"></code>
+## Tecnologias que domino o he visto
+
+<h1>Lenguajes</h1>
+<span>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</span>
 
 
-- 💬 
 
-- 📫 Donde comunicarse conmigo:
+<h2>Otros</h2>
+<span>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 
-   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): sayer203 </a>
-
-<img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=LegonBCA&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
-/>
+</span>
 
