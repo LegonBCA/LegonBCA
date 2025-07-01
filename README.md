@@ -57,4 +57,3 @@ Me apasiona entender cómo funcionan los sistemas, proteger la información y de
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LegonBCA&theme=dark&hide_border=true"/>
 </p>
-
