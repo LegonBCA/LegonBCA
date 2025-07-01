@@ -19,7 +19,7 @@ Me apasiona entender cómo funcionan los sistemas, proteger la información y de
 - 📫 Contáctame: <a href="mailto:benjamin.tucorreo@ejemplo.com">benjamin.c.alvial@gmail.com</a>
 
 
-## Tecnologias que he visto o domino
+## 👨‍💻 Tecnologias que he visto o domino
 
 <h4>Lenguajes</h4>
 <span>
