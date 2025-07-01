@@ -10,7 +10,7 @@ Holaa a todos!!
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
-Soy **BENJAMIN CONTRERAS**, estudiante informático con interés en **seguridad en sistemas**, **bases de datos** y **programación backend**.  
+Soy **BENJAMIN CONTRERAS**, estudiante tecnico informático de segundo año en la universidad catolica de temuco con interés en **seguridad en sistemas informaticos**, **bases de datos** y **programación backend**.  
 Me apasiona entender cómo funcionan los sistemas, proteger la información y desarrollar soluciones eficientes.
 
 - 🌱 Actualmente aprendiendo:
