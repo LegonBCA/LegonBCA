@@ -16,6 +16,8 @@ Me apasiona entender cómo funcionan los sistemas, proteger la información y de
 - 🌱 Actualmente aprendiendo:
   - Motoko
   - React js
+  - angular
+  - spring boot
 - 📫 Contáctame: <a href="mailto:benjamin.tucorreo@ejemplo.com">benjamin.c.alvial@gmail.com</a>
 
 
